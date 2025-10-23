@@ -1,0 +1,23 @@
+{
+    "chart_title": "Sample Chart Data",
+    "data_points": [
+        {
+            "label": "Item A",
+            "value": 15
+        },
+        {
+            "label": "Item B",
+            "value": 30
+        },
+        {
+            "label": "Item C",
+            "value": 22
+        }
+    ],
+    "favorite_activities": {
+        "studying": 20,
+        "cycling": 15,
+        "reading": 10,
+        "gaming": 8
+    }
+}
